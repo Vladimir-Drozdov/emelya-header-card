@@ -34,7 +34,6 @@ function handleAction(element, hass, config, actionConfig) {
       composed: true,
     }));
   }
-  // "none" - do nothing
 }
 
 /* CARD */
