@@ -562,7 +562,6 @@ class EmelyaHeaderCardEditor extends LitElement {
       margin-bottom: 4px;
     }
 
-    /* Appearance tab */
     .img-field { display: flex; flex-direction: column; gap: 12px; }
     .img-label { font-size: 13px; font-weight: 600; color: var(--primary-text-color); }
 
